@@ -1,1 +1,1 @@
-Theese are leetcode problems I solved
+These are leetcode problems I solved
