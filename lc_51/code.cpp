@@ -42,7 +42,7 @@
          {
              if (sol[r][c] == 'Q')
                  return false;
-             r++; c--;
+             r++;c--;
          }
          return true;
      }
